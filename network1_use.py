@@ -58,7 +58,10 @@ inputs = (numpy.asfarray(all_values[1:]) / 255.0 * 0.99) + 0.01
 result = net1.query(inputs)
 print(result)
 
-print(score_net(net1, test_data_list))
+score=score_net(net1, test_data_list)
+print(score)
+score_array = numpy.asarray(score)
+print(score_array.sum()/score_array.size)
 # print(targets)
 # print(all_values[0])
 # print(targets[4])
