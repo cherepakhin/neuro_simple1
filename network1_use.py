@@ -25,7 +25,7 @@ input_nodes = 784
 hidden_nodes = 100
 output_nodes = 10
 
-# коэффициент обучения равен 0,3
+# коэффициент обучения
 learning_rate = 0.2
 net1 = network1.Network1(input_nodes, hidden_nodes, output_nodes, learning_rate)
 
