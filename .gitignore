@@ -1,0 +1,8 @@
+.idea
+*.iml
+venv
+*.pyc
+docker-compose.yml
+logs
+out
+tmp.*
