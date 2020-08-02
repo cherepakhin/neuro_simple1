@@ -1,4 +1,4 @@
 ### Опыты с нейросетью по книге "Создаем нейросеть" Тарик Рашид
 
 Ссылки:
-- [https://neuralnet.info/book/](https://neuralnet.info/book/)
+- [Очень неплохое введение в нейросети](https://neuralnet.info/book/)
